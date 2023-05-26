@@ -1,9 +1,11 @@
 # **About Me**
-<!--
-**aleks247/Aleks247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+---
+- Information
+* My name is Aleksandur Dimitrov
+* I'm 15 years old
+* I'm living in Bulgaria 
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning HTML&CSS, Python, Lua, Java, JavaScript
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 You can contact me on Discord: Aleks247#1798
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
