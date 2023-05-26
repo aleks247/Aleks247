@@ -1,7 +1,7 @@
 # **About Me**
- _Info_
+##_Info_
 
----
+
 * My name is Aleksandur Dimitrov
 * I'm 15 years old
 * I'm living in Bulgaria 
