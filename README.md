@@ -12,6 +12,7 @@
 * HTML&CSS
 * Lua
 * Javascript
+* Vue JS
 ---
 ## _Contacts_
 
